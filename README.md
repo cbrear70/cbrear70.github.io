@@ -7,3 +7,5 @@ The root of the cbrear70.github.io website. The Rugby Team Picker web app itself
   and Android signing fingerprint exist): they tell iPhones and Android phones that join and share links to
   https://cbrear70.github.io/rugby/ may open the Rugby Team Picker app. Only that page is claimed.
 - `.nojekyll`: stops GitHub Pages skipping the `.well-known` folder (it ignores folders starting with a dot).
+- `privacy/index.html`: the app's privacy policy (https://cbrear70.github.io/privacy/), the URL both app stores ask for.
+  Keep it in step with the app: what's stored, who sees it, and how long it's kept.
